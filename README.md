@@ -13,7 +13,4 @@ Flutter Tutorial Playlist: https://www.youtube.com/playlist?list=PLeKQz1VjpjFq3v
 
 Dart Tutorial Playlist : https://youtube.com/playlist?list=PLeKQz1VjpjFqqXLvQ8rTnYxZcUqEGA0dm
 
-![alt text](https://github.com/flutter-teacher/Tex.rich-constructor/blob/main/text_rich.png)
-
-
 <img src='https://github.com/flutter-teacher/Tex.rich-constructor/blob/main/text_rich.png' width='360'>
